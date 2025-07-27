@@ -1,3 +1,2 @@
-donut slides
-"# BakeD-nut" 
+React slider
 "# BakeDnut" 
